@@ -1,1 +1,1 @@
-<h1 align ="center">Hi, I'm Duong Hoai Bao</h1>
+<h1 align ="center">👋 Hi, I'm Duong Hoai Bao</h1>
