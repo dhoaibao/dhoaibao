@@ -19,11 +19,11 @@
 </p>
 
 
-<a> 
-  <a href="https://github.com/dhoaibao"><img alt="Dương Hoài Bảo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dhoaibao&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width=""40%"/></a>
-  <a href="https://github.com/dhoaibao"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhoaibao&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak" width=""40%"/></a>
+<div> 
+  <a href="https://github.com/dhoaibao"><img alt="Dương Hoài Bảo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dhoaibao&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
+  <a href="https://github.com/dhoaibao"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhoaibao&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/></a>
   <br> <br>
-</a>
+</div>
 
 <details>
   <summary><b>Most Used Languages</b></summary><br>
