@@ -20,16 +20,16 @@
 
 
 <a> 
-  <a href="https://github.com/dhoaibao"><img alt="Dương Hoài Bảo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dhoaibao&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/dhoaibao"><img alt="Dương Hoài Bảo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dhoaibao&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/dhoaibao"><img alt="Dương Hoài Bảo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dhoaibao&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a href="https://github.com/dhoaibao"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhoaibao&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/></a>
   <br> <br>
 </a>
 
 <details>
-  <summary><b>GitHub Streak Stats</b></summary>
-  <p align="center">
+  <summary><b>Most Used Languages</b></summary><br>
+  <p align="left">
     <a href="https://github.com/dhoaibao">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhoaibao&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+     <img alt="Dương Hoài Bảo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dhoaibao&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
     </a>
   </p>
 </details>
