@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dương Hoài Bảo.</h1>
-<h2 align="center">About me</h3>
+<h3 align="center">About me</h3>
 <p align="center">
 👨‍🎓 I'm studying Software Engineering at Can Tho University.
 </p>
