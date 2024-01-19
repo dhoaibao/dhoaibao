@@ -6,7 +6,7 @@
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=dhoaibao&label=Profile%20views&color=blueviolet&style=flat" alt="supun nanayakkara" /> 
- <img src="https://img.shields.io/badge/Knownledge-C | Java | Javascript | Node | Vue | Git | GitHub -green.svg" alt="supun nanayakkara's languages" />
+ <img src="https://img.shields.io/badge/Use To Code-C | Java | Javascript | Node | Vue | Git -green.svg" alt="supun nanayakkara's languages" />
  <img alt="Profile followers" src="https://img.shields.io/github/followers/dhoaibao">
 </p>
 
