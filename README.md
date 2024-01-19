@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dương Hoài Bảo.</h1>
-<h3 align="center">About me</h3>
+<h2 align="center">About me</h3>
 <p align="center">
-👨‍🎓 I'm studying Software Engineering at Can Tho University
+👨‍🎓 I'm studying Software Engineering at Can Tho University.
 </p>
 
 <p align="center"> 
@@ -12,7 +12,7 @@
 
 
 ## Top Repositories
-[![Activate-the-StarUML-license](https://github-readme-stats.vercel.app/api/pin/?username=dhoaibao&repo=Activate-the-StarUML-license&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dhoaibao/Activate-the-StarUML-license) 
+[![Activate-the-StarUML-license](https://github-readme-stats.vercel.app/api/pin/?username=dhoaibao&repo=activate-the-StarUML-license&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dhoaibao/Activate-the-StarUML-license) 
 
 <p align="left">
   <a href="https://github.com/dhoaibao?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
