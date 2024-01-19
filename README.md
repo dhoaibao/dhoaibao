@@ -10,14 +10,14 @@
  <img alt="Profile followers" src="https://img.shields.io/github/followers/dhoaibao">
 </p>
 
-
+<!--
 ## Top Repositories
 [![activate-StarUML-license](https://github-readme-stats.vercel.app/api/pin/?username=dhoaibao&repo=activate-StarUML-license&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dhoaibao/activate-StarUML-license) 
 
 <p align="left">
   <a href="https://github.com/dhoaibao?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
+-->
 
 <div> 
   <img alt="Dương Hoài Bảo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dhoaibao&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%"/>
