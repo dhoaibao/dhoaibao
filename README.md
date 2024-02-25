@@ -3,7 +3,7 @@
 <p align="center">
 👨‍🎓 I'm studying Software Engineering at Can Tho University.
 </p>
-<!--
+
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=dhoaibao&label=Profile%20views&color=blueviolet&style=flat" alt="supun nanayakkara" /> 
  <img src="https://img.shields.io/badge/Use To Code-C | Java | Javascript | Node | Vue | Git -green.svg" alt="supun nanayakkara's languages" />
