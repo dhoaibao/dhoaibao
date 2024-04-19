@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dương Hoài Bảo.</h1>
+<h1 align="center">Hi 👋, I'm Duong Hoai Bao.</h1>
 <h3 align="center">About me</h3>
 <p align="center">
 👨‍🎓 I'm studying Software Engineering at Can Tho University.
