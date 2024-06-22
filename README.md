@@ -22,9 +22,5 @@
 
 - <b>Platforms:</b> Linux, Windows
 
-<h2>Activities:</h2>
-<br/>
-    <a href="https://github.com/dhoaibao/"><img alt="Gift' Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dhoaibao&theme=github-compact&area=true" /></a>
-<br/>
 
 
