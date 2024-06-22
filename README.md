@@ -13,10 +13,7 @@
 - 📫 Contact me via: **dhbao2505@gmail.com**
 
 <h2>Knownledge</h2>
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,react,vue,tailwind,bootstrap,mongodb,mysql,postgresql,git,github,docker,figma,linux" />
-  </a>
+<img src="https://skillicons.dev/icons?i=java,nodejs,react,vue,tailwind,bootstrap,mongodb,mysql,postgresql,git,github,docker,figma,linux" />
 
 
 
