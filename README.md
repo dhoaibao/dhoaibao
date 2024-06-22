@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi👋, I'm Duong Hoai Bao 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="30" height="30" />
+<!--   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="30" height="30" /> -->
 </h1>
 
 <p align="center">
