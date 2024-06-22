@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a final year student majoring in Software Engineering at **Can Tho University**
 
-- 🌱 I like to learn and explore new technologies.
+- 🌱 I always like to learn and discover new things.
 
 - 📫 Contact me via: **dhbao2505@gmail.com**
 
