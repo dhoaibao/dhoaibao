@@ -13,14 +13,12 @@
 - 📫 Contact me via: **dhbao2505@gmail.com**
 
 <h2>Skills:</h2>
-
-- <b>Languages:</b> Javascript, Java, C++, SQL
-
-- <b>Frameworks:</b> ReactJS, VueJS, NodeJS
-
-- <b>Tools:</b> Git, MongoDB, MySQL, Docker
-
-- <b>Platforms:</b> Linux, Windows
+<ul>
+	<li> NodeJS | ReactJS </li>
+	<li> Javascript | Java | C++ </li>
+	<li> MySQL | MongoDB</li>
+	<li> Linux | Windows </li>
+</ul>
 
 
 
