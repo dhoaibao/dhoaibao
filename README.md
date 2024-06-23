@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=30"></a>
 </p> 
 
-<h3>About Me</h3><hr/>
+<h2>About Me</h2>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ferry.png" width="100" height="100" align="right"/>
 
@@ -17,7 +17,7 @@
 
 - 📫 Contact me via: **dhbao2505@gmail.com**
 
-<h3>Knownledge</h3><hr/>
+<h2>Knownledge</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,java,nodejs,react,vue,tailwind,bootstrap,mongodb,mysql,postgresql,git,github,docker,figma,linux" />
