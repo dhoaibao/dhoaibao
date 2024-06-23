@@ -9,6 +9,8 @@
 
 <h2>About Me</h2>
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Canoe.png" alt="Canoe" width="150" height="150" align="right"/>
+
 - 🔭 I’m currently a final year student majoring in Software Engineering at **Can Tho University**
 
 - 🌱 I always like to learn and discover new things.
