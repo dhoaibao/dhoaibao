@@ -20,4 +20,3 @@
 <h2>Knownledge</h2>
 <img src="https://skillicons.dev/icons?i=java,nodejs,react,vue,tailwind,bootstrap,mongodb,mysql,postgresql,git,github,docker,figma,linux" />
 
-![Duong Hoai Bao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhoaibao&theme=react-dark&radius=10&height=400)
