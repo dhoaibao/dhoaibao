@@ -34,7 +34,7 @@
   <br/>
 </a>
 
-![Duong Hoai Bao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhoaibao&theme=tokyo-night&height=280&radius=8&bg_color=0D1117)
+![Duong Hoai Bao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhoaibao&theme=tokyo-night&height=300&radius=8&bg_color=0D1117)
 
 <!--
 <br/>
