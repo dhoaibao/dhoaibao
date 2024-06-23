@@ -28,11 +28,11 @@
 <summary align="center"><b>⚡Github Stats</b></summary>
 <br/>
 
-<a> 
+<p align="center"> 
   <a href="#"><img alt="Duong Hoai Bao's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dhoaibao&show_icons=true&count_private=true&theme=tokyonight&bg_color=0D1117" height="192px" width="49.5%"/></a>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhoaibao&theme=tokyonight&background=0D1117" alt="Duong Hoai Bao's GitHub streak" height="192px" width="49.5%"/></a>
   <br/>
-</a>
+</p>
 
 ![Duong Hoai Bao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhoaibao&theme=tokyo-night&height=300&radius=8&bg_color=0D1117)
 
