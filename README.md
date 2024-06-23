@@ -21,7 +21,7 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,java,nodejs,react,vue,tailwind,bootstrap,mongodb,mysql,postgresql,git,github,docker,figma,linux" />
-</p>
+</p><hr/>
 
 
 <details>
@@ -31,10 +31,11 @@
 <a> 
   <a href="#"><img alt="Duong Hoai Bao's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dhoaibao&show_icons=true&count_private=true&theme=tokyonight&bg_color=0D1117" height="192px" width="49.5%"/></a>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhoaibao&theme=tokyonight&background=0D1117" alt="Duong Hoai Bao's GitHub streak" height="192px" width="49.5%"/></a>
-  <br/><br/>
+  <br/>
+  <p></p>
 </a>
 
-![Duong Hoai Bao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhoaibao&theme=tokyo-night&height=300&radius=8&bg_color=0D1117)
+![Duong Hoai Bao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhoaibao&theme=tokyo-night&height=280&radius=8&bg_color=0D1117)
 
 <!--
 <br/>
