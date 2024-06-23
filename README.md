@@ -9,7 +9,7 @@
 
 <h2>About Me</h2>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20Behind%20Small%20Cloud.png" width="125" height="125" align="right"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20Behind%20Small%20Cloud.png" width="120" height="120" align="right"/>
 
 - 🔭 I’m currently a final year student majoring in Software Engineering at **Can Tho University**
 
