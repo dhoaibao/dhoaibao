@@ -23,6 +23,11 @@
 <img src="https://skillicons.dev/icons?i=cpp,java,nodejs,react,vue,tailwind,bootstrap,mongodb,mysql,postgresql,git,github,docker,figma,linux" />
 </p>
 
+<hr/>
+<details>
+<summary align="center"><b>⚡Github Stats</b></summary>
+<br/>
+
 ![Duong Hoai Bao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhoaibao&theme=tokyo-night&height=250&radius=8&bg_color=0D1117)
 
 <a> 
@@ -35,3 +40,4 @@
 <p align="center">
   <a href="#"><img alt="Duong Hoai Bao's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dhoaibao&langs_count=8&layout=compact&theme=tokyonight&bg_color=0D1117"/></a>
 </p>
+</details>
