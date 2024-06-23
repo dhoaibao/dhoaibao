@@ -23,4 +23,4 @@
 <img src="https://skillicons.dev/icons?i=cpp,java,nodejs,react,vue,tailwind,bootstrap,mongodb,mysql,postgresql,git,github,docker,figma,linux" />
 </p>
 
-![Duong Hoai Bao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhoaibao&theme=github-compact&height=250)
+![Duong Hoai Bao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhoaibao&theme=github-compact&height=200&radius=12)
