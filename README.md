@@ -1,7 +1,7 @@
-<h2 align="center">
+<h1 align="center">
   Hi👋, I'm Duong Hoai Bao 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="30" height="30" />
-</h2>
+</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=30"></a>
