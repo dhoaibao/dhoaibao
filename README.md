@@ -11,9 +11,9 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ferry.png" width="100" height="100" align="right"/>
 
-- 🔭 I’m currently a final year student majoring in Software Engineering at **Can Tho University**
+- 🔭 I’m currently a final year student majoring in Software Engineering at **Can Tho University**.
 
-- 🌱 I always like to learn and discover new things.
+- 🌱 Technologies I'm using: **React, NodeJS**. I always like to learn and discover new things.
 
 - 📫 Contact me via: **dhbao2505@gmail.com**
 
