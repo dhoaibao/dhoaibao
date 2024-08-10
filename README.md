@@ -27,7 +27,6 @@
 <summary align="center"><b>⚡Github Stats</b></summary>
 <br/>
 
-<br/>
 <p align="center">
   <a href="#"><img alt="Duong Hoai Bao's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dhoaibao&langs_count=8&layout=compact&theme=tokyonight&bg_color=0D1117" height="192px"/></a>
 <!--   <a href="#"><img alt="Duong Hoai Bao's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dhoaibao&show_icons=true&count_private=true&theme=tokyonight&bg_color=0D1117" height="192px"/></a> -->
