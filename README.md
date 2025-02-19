@@ -17,18 +17,16 @@
 
 - 📫 Contact me via: **dhbao2505@gmail.com**
 
-<p align="center">
+<!-- <p align="center">
  <a href="#"><img alt="Duong Hoai Bao's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dhoaibao&langs_count=8&layout=compact&theme=tokyonight&bg_color=0D1117" height="192px"/></a>
   <a href="#"><img alt="Duong Hoai Bao's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dhoaibao&show_icons=true&count_private=true&theme=tokyonight&bg_color=0D1117" height="192px"/></a>
-</p>
+</p> -->
 
 <h2>Knownledge</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,nodejs,react,vue,tailwind,bootstrap,mongodb,mysql,postgresql,git,github,docker,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,nodejs,react,vue,tailwind,bootstrap,mongodb,mysql,postgresql,git,github,docker,figma,linux" />
 </p>
-
-
 
 
  <!-- <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhoaibao&theme=tokyonight&background=0D1117" alt="Duong Hoai Bao's GitHub streak" height="192px"/></a> -->
